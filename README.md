@@ -18,10 +18,8 @@ This setup demonstrates the practical feasibility of integrating the model with 
 
 | Demo | Description |
 |------|-------------|
-| `videos/oem_scanner_demo.mp4` | Real-time fetal head classification on OEM Ultrasound Scanner |
-| `videos/slicer3d_demo.mp4` | Real-time classification in 3D Slicer on a reconstructed volume |
-
-> **Note:** Video files will be added to the `videos/` directory once finalised for the poster presentation.
+| `videos/real time video - 1.mp4` | Real-time fetal head classification on OEM Ultrasound Scanner |
+| `videos/slicer video.mp4` | Real-time classification in 3D Slicer on a reconstructed volume |
 
 ## Repository Structure
 
