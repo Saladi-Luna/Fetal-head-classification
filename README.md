@@ -35,7 +35,7 @@ Fetal-head-classification/
 
 ## About
 
-- **ooooo        
+- **Presented by:** Saladi Pravallika, Ph.D. Candidate        
 - **Event:** Ripples 2026 
 - **Lab:** UTSAAH Lab, Indian Institute of Science, Bengaluru
 - **Context:** PhD research on AI-assisted fetal ultrasound analysis
