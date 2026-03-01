@@ -7,7 +7,7 @@ This repository accompanies the **Ripples 2026** poster presentation at the **In
 The project demonstrates a 2 stage deep-learning-based fetal head classification pipeline deployed in two real-time settings:
 
 1. **Real-Time Implementation on an OEM Ultrasound Scanner**  
-   The trained classification models were deployed for live inference using a commercial (OEM) ultrasound scanner. Image frames were captured via a frame grabber and processed on a secondary laptop in real time.
+   The trained classification models were deployed for live inference using an OEM ultrasound scanner. Image frames were captured via a frame grabber and processed on a secondary laptop in real time.
 
 This setup demonstrates the practical feasibility of integrating the model with clinical-grade imaging hardware, validating its potential for real-world clinical deployment.
 
