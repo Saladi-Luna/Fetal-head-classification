@@ -28,8 +28,8 @@ This setup demonstrates the practical feasibility of integrating the model with 
 ```
 Fetal-head-classification/
 ├── videos/
-│   ├── oem_scanner_demo.mp4      # OEM Ultrasound Scanner real-time demo
-│   └── slicer3d_demo.mp4         # 3D Slicer real-time demo (UTSAAH Lab volume)
+│   ├── real time video - 1.mp4      # OEM Ultrasound Scanner real-time demo
+│   └── slicer video.mp4         # 3D Slicer real-time demo (UTSAAH Lab volume)
 └── README.md
 ```
 
