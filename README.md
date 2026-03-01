@@ -35,6 +35,7 @@ Fetal-head-classification/
 
 ## About
 
-- **Event:** Ripples 2026 – Annual Technical Symposium, IISc
+- **ooooo        
+- **Event:** Ripples 2026 
 - **Lab:** UTSAAH Lab, Indian Institute of Science, Bengaluru
 - **Context:** PhD research on AI-assisted fetal ultrasound analysis
