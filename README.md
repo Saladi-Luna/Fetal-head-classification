@@ -1,16 +1,18 @@
-# Fetal Head Classification – Real-Time Implementation
+# Fetal Head Classification - Real-Time Implementation
 
 This repository accompanies the **Ripples 2026** poster presentation at the **Indian Institute of Science (IISc)**, Bengaluru, submitted as part of ongoing PhD research in the **UTSAAH Lab**.
 
 ## Overview
 
-The project demonstrates a deep-learning-based fetal head classification pipeline deployed in two real-time settings:
+The project demonstrates a 2 stage deep-learning-based fetal head classification pipeline deployed in two real-time settings:
 
 1. **Real-Time Implementation on an OEM Ultrasound Scanner**  
-   Live inference of fetal head standard-plane classification directly on a commercial (OEM) ultrasound scanner, showcasing the feasibility of deploying the trained model in a clinical-grade hardware environment.
+   The trained classification models were deployed for live inference using a commercial (OEM) ultrasound scanner. Image frames were captured via a frame grabber and processed on a secondary laptop in real time.
+
+This setup demonstrates the practical feasibility of integrating the model with clinical-grade imaging hardware, validating its potential for real-world clinical deployment.
 
 2. **Real-Time Implementation in 3D Slicer**  
-   Live inference within [3D Slicer](https://www.slicer.org/), operating on a volumetric ultrasound dataset reconstructed using the **secure ultrasound system** developed in-house at the **UTSAAH Lab** (IISc). This demonstrates end-to-end volumetric acquisition, reconstruction, and AI-assisted classification in a research software environment.
+   Live inference within [3D Slicer](https://www.slicer.org/), operating on a volumetric ultrasound dataset acquired using the **Secure Ultrasound system** at the **UTSAAH Lab** (IISc). This demonstrates end-to-end volumetric  AI-assisted classification in a research software environment.
 
 ## Demo Videos
 
